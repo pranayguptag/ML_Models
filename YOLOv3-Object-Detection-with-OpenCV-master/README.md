@@ -3,8 +3,6 @@
 
 # YOLOv3 Object Detection with OpenCV
 
-![YOLOv3 Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/YOLO_logo.png)
-
 Welcome to the **YOLOv3 Object Detection with OpenCV** project! 🎯 This project leverages the YOLOv3 model to perform **image, video**, and **real-time webcam object detection** using OpenCV. The pre-trained YOLOv3 models are sourced from the official YOLO paper (2018) and are implemented using Darknet.
 
 Whether you're working with still images, video files, or performing real-time detection with a webcam, this project has got you covered!
@@ -39,7 +37,7 @@ Before using the project, ensure you have the following installed on your system
 Start by cloning this repository to your local machine:
 
 ```bash
-git clone https://github.com/iArunava/YOLOv3-Object-Detection-with-OpenCV.git
+git clone https://github.com/pranayguptag/ML_Models.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -164,8 +162,8 @@ This project is distributed under the **MIT License**.
 
 If you have any questions or suggestions, feel free to reach out:
 
-* **Author**: [Arunava](https://github.com/iArunava)
-* **Email**: [arunava@example.com](mailto:arunava@example.com)
+* **Author**: [Pranayguptag](https://github.com/pranayguptag)
+* **Email**: [pranay992078@gmail.com](mailto:pranay992078@gmail.com)
 
 ---
 
@@ -183,15 +181,3 @@ Add these badges to give more details about the project (e.g., build status, lic
 ![Python Version](https://img.shields.io/badge/python-3.x-blue)
 
 ---
-
-### How this is improved and creative:
-
-* **Visual Appeal**: Added images and badges to make it more visually engaging.
-* **Clear Sections**: Organized the `README` into clear, easy-to-navigate sections like **Features**, **Getting Started**, **Examples**, etc.
-* **Improved Command Examples**: Structured the commands and made them easier to understand with some real-world paths.
-* **Additional Information**: Added more relevant references, contributions, and contact sections.
-* **Screenshots**: Placeholder for screenshots to provide visual clarity on how the detection looks in action (you can replace these with actual screenshots from your project).
-
----
-
-This layout should make the `README.md` look both **informative** and **attractive**, encouraging others to use and contribute to the project. Let me know if you want any further tweaks!
