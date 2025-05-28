@@ -132,11 +132,11 @@ This will display a list of all available arguments and settings you can modify.
 
 ### Image Inference
 
-![Image Inference](images/inference-example.jpg)
+![Image Inference](images/Image.png)
 
 ### Video Inference
 
-![Video Inference](images/video-example.jpg)
+![Video Inference](images/Video.png)
 
 ### Real-Time Webcam Inference
 
