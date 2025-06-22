@@ -148,7 +148,7 @@ This will display a list of all available arguments and settings you can modify.
 
 * **[PyImageSearch: YOLOv3 Object Detection with OpenCV](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)**: The guide that inspired the implementation of YOLOv3 with OpenCV.
 * **[Official YOLOv3 Paper](https://arxiv.org/pdf/1804.02767.pdf)**: The paper that introduced the YOLOv3 model.
-* **[Darknet](https://pjreddie.com/darknet/yolo/)**: The framework used for training and running YOLOv3 models.
+* **[Darknet](https://pjreddie.com/darknet/yolo/)**: The framework used for training and running YOLOv3-320 models.
 
 ---
 
